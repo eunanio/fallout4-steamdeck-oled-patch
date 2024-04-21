@@ -1,5 +1,6 @@
 #!/bin/bash
-
+# Switch to root user
+sudo su
 # Speify the file path
 FILE_PATH="/home/deck/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Fallout4Prefs.ini"
 
@@ -13,3 +14,4 @@ else
     echo "Error: '$FILE_PATH' does not exist."
 fi
 
+su deck

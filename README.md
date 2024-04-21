@@ -9,7 +9,8 @@ Fallout 4 presents issues on high refresh rate devices like the Steam deck oled 
 2. Run the game at least once to create the necessary files.
 3. Exit the game and go to Desktop mode
 4. Open Terminal and Copy the following command below.
-5. Once Complete, Restart your steam deck and launch the game. 
+5. Enter your root password for your steamdeck when prompted.
+6. Once Complete, Restart your steam deck and launch the game. 
 
 ## Install
 ```bash

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Speify the file path
-FILE_PATH="/home/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Fallout4Prefs.ini"
+FILE_PATH="/home/deck/.local/share/Steam/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/Documents/My Games/Fallout4/Fallout4Prefs.ini"
 
 # Check if the file exists
 if [ -f "$FILE_PATH" ]; then

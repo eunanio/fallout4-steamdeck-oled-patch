@@ -13,4 +13,6 @@ Fallout 4 presents issues on high refresh rate devices like the Steam deck oled 
 curl https://raw.githubusercontent.com/eunanhardy/fallout4-steamdeck-oled-patch/main/install.sh | bash
 ```
 
-### Happy Gaming Wastelanders
+Happy Gaming Wastelanders
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/eunan)
